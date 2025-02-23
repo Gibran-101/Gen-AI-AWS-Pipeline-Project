@@ -1,0 +1,17 @@
+# Ignore bash, vim, and other system files
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.profile
+.ssh/
+.sudo_as_admin_successful
+.viminfo
+.wget-hsts
+
+# Terraform
+.terraform/
+terraform-project/.terraform/
+terraform-project/terraform.tfstate
+terraform-project/terraform.tfstate.backup
+
