@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cloudmart-backend-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cloudmart-backend-app
+  template:
+    metadata:
+      labels:
+        app: cloudmart-backend-app
+    spec:
+      serviceAccountName: cloudmart-pod-execution-role
+      containers:
+      - name: cloudmart-backend-app
+        image: 009160073925.dkr.ecr.us-east-1.amazonaws.com/cloudmart-backend:latest
+        env:
+        - name: PORT
+          value: "5000"
+        - name: AWS_REGION
+          value: "us-east-1"
+        - name: BEDROCK_AGENT_ID
+          value: "5WSXOFKBSC"
+        - name: BEDROCK_AGENT_ALIAS_ID
+          value: "KDKCDALLNB"
+        - name: OPENAI_API_KEY
+          value: "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"
+        - name: OPENAI_ASSISTANT_ID
+          value: "asst_b5GHHsfzqmZA08JsSHla8rsG"

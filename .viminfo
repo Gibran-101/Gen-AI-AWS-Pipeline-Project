@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1740291417,,"wq"
+|2,0,1740371909,,"wq"
 :q!
-|2,0,1740291160,,"q!"
+|2,0,1740360054,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -27,110 +27,327 @@
 # Registers:
 
 # File marks:
-'0  17  0  ~/.gitignore
-|4,48,17,0,1740291417,"~/.gitignore"
-'1  37  0  ~/terraform-project/main.tf
-|4,49,37,0,1740291160,"~/terraform-project/main.tf"
-'2  38  0  ~/terraform-project/main.tf
-|4,50,38,0,1740278363,"~/terraform-project/main.tf"
-'3  38  0  ~/terraform-project/main.tf
-|4,51,38,0,1740278363,"~/terraform-project/main.tf"
-'4  1  652  ~/terraform-project/main.tf
-|4,52,1,652,1740276859,"~/terraform-project/main.tf"
-'5  26  0  ~/terraform-project/main.tf
-|4,53,26,0,1740276859,"~/terraform-project/main.tf"
-'6  1  652  ~/terraform-project/main.tf
-|4,54,1,652,1740276859,"~/terraform-project/main.tf"
-'7  26  0  ~/terraform-project/main.tf
-|4,55,26,0,1740276859,"~/terraform-project/main.tf"
-'8  1  1188  ~/terraform-project/main.tf
-|4,56,1,1188,1740276569,"~/terraform-project/main.tf"
-'9  59  0  ~/terraform-project/main.tf
-|4,57,59,0,1740276569,"~/terraform-project/main.tf"
+'0  114  0  ~/terraform-project/main.tf
+|4,48,114,0,1740371909,"~/terraform-project/main.tf"
+'1  31  46  ~/challenge-day2/backend/cloudmart-backend-deployment.yml
+|4,49,31,46,1740368578,"~/challenge-day2/backend/cloudmart-backend-deployment.yml"
+'2  114  0  ~/terraform-project/main.tf
+|4,50,114,0,1740361705,"~/terraform-project/main.tf"
+'3  1  4325  ~/terraform-project/main.tf
+|4,51,1,4325,1740361220,"~/terraform-project/main.tf"
+'4  190  0  ~/terraform-project/main.tf
+|4,52,190,0,1740361220,"~/terraform-project/main.tf"
+'5  1  4325  ~/terraform-project/main.tf
+|4,53,1,4325,1740361220,"~/terraform-project/main.tf"
+'6  190  0  ~/terraform-project/main.tf
+|4,54,190,0,1740361220,"~/terraform-project/main.tf"
+'7  1  3287  ~/terraform-project/main.tf
+|4,55,1,3287,1740361150,"~/terraform-project/main.tf"
+'8  1  3074  ~/terraform-project/main.tf
+|4,56,1,3074,1740361150,"~/terraform-project/main.tf"
+'9  117  761  ~/terraform-project/main.tf
+|4,57,117,761,1740361150,"~/terraform-project/main.tf"
 
 # Jumplist (newest first):
--'  17  0  ~/.gitignore
-|4,39,17,0,1740291417,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1740291412,"~/.gitignore"
--'  37  0  ~/terraform-project/main.tf
-|4,39,37,0,1740291160,"~/terraform-project/main.tf"
--'  37  0  ~/terraform-project/main.tf
-|4,39,37,0,1740291160,"~/terraform-project/main.tf"
--'  38  0  ~/terraform-project/main.tf
-|4,39,38,0,1740291149,"~/terraform-project/main.tf"
--'  38  0  ~/terraform-project/main.tf
-|4,39,38,0,1740291149,"~/terraform-project/main.tf"
--'  38  0  ~/terraform-project/main.tf
-|4,39,38,0,1740278363,"~/terraform-project/main.tf"
--'  38  0  ~/terraform-project/main.tf
-|4,39,38,0,1740278363,"~/terraform-project/main.tf"
--'  1  652  ~/terraform-project/main.tf
-|4,39,1,652,1740278298,"~/terraform-project/main.tf"
--'  1  652  ~/terraform-project/main.tf
-|4,39,1,652,1740278298,"~/terraform-project/main.tf"
--'  1  652  ~/terraform-project/main.tf
-|4,39,1,652,1740278298,"~/terraform-project/main.tf"
--'  1  652  ~/terraform-project/main.tf
-|4,39,1,652,1740278298,"~/terraform-project/main.tf"
--'  26  0  ~/terraform-project/main.tf
-|4,39,26,0,1740276859,"~/terraform-project/main.tf"
--'  26  0  ~/terraform-project/main.tf
-|4,39,26,0,1740276859,"~/terraform-project/main.tf"
--'  26  0  ~/terraform-project/main.tf
-|4,39,26,0,1740276859,"~/terraform-project/main.tf"
--'  26  0  ~/terraform-project/main.tf
-|4,39,26,0,1740276859,"~/terraform-project/main.tf"
--'  1  1188  ~/terraform-project/main.tf
-|4,39,1,1188,1740276809,"~/terraform-project/main.tf"
--'  1  1188  ~/terraform-project/main.tf
-|4,39,1,1188,1740276809,"~/terraform-project/main.tf"
--'  59  0  ~/terraform-project/main.tf
-|4,39,59,0,1740276569,"~/terraform-project/main.tf"
--'  47  0  ~/terraform-project/main.tf
-|4,39,47,0,1740276569,"~/terraform-project/main.tf"
--'  59  0  ~/terraform-project/main.tf
-|4,39,59,0,1740276569,"~/terraform-project/main.tf"
--'  47  0  ~/terraform-project/main.tf
-|4,39,47,0,1740276569,"~/terraform-project/main.tf"
--'  59  0  ~/terraform-project/main.tf
-|4,39,59,0,1740276569,"~/terraform-project/main.tf"
--'  47  0  ~/terraform-project/main.tf
-|4,39,47,0,1740276569,"~/terraform-project/main.tf"
--'  59  0  ~/terraform-project/main.tf
-|4,39,59,0,1740276569,"~/terraform-project/main.tf"
--'  47  0  ~/terraform-project/main.tf
-|4,39,47,0,1740276569,"~/terraform-project/main.tf"
--'  22  0  ~/terraform-project/main.tf
-|4,39,22,0,1740276558,"~/terraform-project/main.tf"
--'  22  0  ~/terraform-project/main.tf
-|4,39,22,0,1740276558,"~/terraform-project/main.tf"
--'  22  0  ~/terraform-project/main.tf
-|4,39,22,0,1740276558,"~/terraform-project/main.tf"
--'  22  0  ~/terraform-project/main.tf
-|4,39,22,0,1740276558,"~/terraform-project/main.tf"
--'  22  0  ~/terraform-project/main.tf
-|4,39,22,0,1740276395,"~/terraform-project/main.tf"
--'  22  0  ~/terraform-project/main.tf
-|4,39,22,0,1740276395,"~/terraform-project/main.tf"
--'  1  13  ~/terraform-project/main.tf
-|4,39,1,13,1740276381,"~/terraform-project/main.tf"
--'  1  13  ~/terraform-project/main.tf
-|4,39,1,13,1740276381,"~/terraform-project/main.tf"
--'  1  13  ~/terraform-project/main.tf
-|4,39,1,13,1740276381,"~/terraform-project/main.tf"
--'  1  13  ~/terraform-project/main.tf
-|4,39,1,13,1740276381,"~/terraform-project/main.tf"
--'  1  13  ~/terraform-project/main.tf
-|4,39,1,13,1740275964,"~/terraform-project/main.tf"
--'  1  13  ~/terraform-project/main.tf
-|4,39,1,13,1740275964,"~/terraform-project/main.tf"
--'  1  14  ~/terraform-project/main.tf
-|4,39,1,14,1740275948,"~/terraform-project/main.tf"
--'  1  14  ~/terraform-project/main.tf
-|4,39,1,14,1740275948,"~/terraform-project/main.tf"
+-'  114  0  ~/terraform-project/main.tf
+|4,39,114,0,1740371909,"~/terraform-project/main.tf"
+-'  31  46  ~/challenge-day2/backend/cloudmart-backend-deployment.yml
+|4,39,31,46,1740368578,"~/challenge-day2/backend/cloudmart-backend-deployment.yml"
+-'  31  46  ~/challenge-day2/backend/cloudmart-backend-deployment.yml
+|4,39,31,46,1740368578,"~/challenge-day2/backend/cloudmart-backend-deployment.yml"
+-'  18  83  ~/challenge-day2/backend/cloudmart-backend-deployment.yml
+|4,39,18,83,1740368246,"~/challenge-day2/backend/cloudmart-backend-deployment.yml"
+-'  18  83  ~/challenge-day2/backend/cloudmart-backend-deployment.yml
+|4,39,18,83,1740368246,"~/challenge-day2/backend/cloudmart-backend-deployment.yml"
+-'  114  0  ~/terraform-project/main.tf
+|4,39,114,0,1740361705,"~/terraform-project/main.tf"
+-'  114  0  ~/terraform-project/main.tf
+|4,39,114,0,1740361705,"~/terraform-project/main.tf"
+-'  1  4325  ~/terraform-project/main.tf
+|4,39,1,4325,1740361244,"~/terraform-project/main.tf"
+-'  1  4325  ~/terraform-project/main.tf
+|4,39,1,4325,1740361244,"~/terraform-project/main.tf"
+-'  1  4325  ~/terraform-project/main.tf
+|4,39,1,4325,1740361244,"~/terraform-project/main.tf"
+-'  190  0  ~/terraform-project/main.tf
+|4,39,190,0,1740361220,"~/terraform-project/main.tf"
+-'  190  0  ~/terraform-project/main.tf
+|4,39,190,0,1740361220,"~/terraform-project/main.tf"
+-'  190  0  ~/terraform-project/main.tf
+|4,39,190,0,1740361220,"~/terraform-project/main.tf"
+-'  117  761  ~/terraform-project/main.tf
+|4,39,117,761,1740361162,"~/terraform-project/main.tf"
+-'  117  761  ~/terraform-project/main.tf
+|4,39,117,761,1740361162,"~/terraform-project/main.tf"
+-'  117  761  ~/terraform-project/main.tf
+|4,39,117,761,1740361162,"~/terraform-project/main.tf"
+-'  144  0  ~/terraform-project/main.tf
+|4,39,144,0,1740361150,"~/terraform-project/main.tf"
+-'  144  0  ~/terraform-project/main.tf
+|4,39,144,0,1740361150,"~/terraform-project/main.tf"
+-'  144  0  ~/terraform-project/main.tf
+|4,39,144,0,1740361150,"~/terraform-project/main.tf"
+-'  59  31  ~/terraform-project/main.tf
+|4,39,59,31,1740361107,"~/terraform-project/main.tf"
+-'  59  31  ~/terraform-project/main.tf
+|4,39,59,31,1740361107,"~/terraform-project/main.tf"
+-'  59  31  ~/terraform-project/main.tf
+|4,39,59,31,1740361107,"~/terraform-project/main.tf"
+-'  59  31  ~/terraform-project/main.tf
+|4,39,59,31,1740361107,"~/terraform-project/main.tf"
+-'  59  31  ~/terraform-project/main.tf
+|4,39,59,31,1740361107,"~/terraform-project/main.tf"
+-'  59  31  ~/terraform-project/main.tf
+|4,39,59,31,1740361067,"~/terraform-project/main.tf"
+-'  59  31  ~/terraform-project/main.tf
+|4,39,59,31,1740361067,"~/terraform-project/main.tf"
+-'  115  845  ~/terraform-project/main.tf
+|4,39,115,845,1740360997,"~/terraform-project/main.tf"
+-'  143  0  ~/terraform-project/main.tf
+|4,39,143,0,1740360997,"~/terraform-project/main.tf"
+-'  115  845  ~/terraform-project/main.tf
+|4,39,115,845,1740360997,"~/terraform-project/main.tf"
+-'  115  845  ~/terraform-project/main.tf
+|4,39,115,845,1740360997,"~/terraform-project/main.tf"
+-'  143  0  ~/terraform-project/main.tf
+|4,39,143,0,1740360997,"~/terraform-project/main.tf"
+-'  115  845  ~/terraform-project/main.tf
+|4,39,115,845,1740360997,"~/terraform-project/main.tf"
+-'  115  845  ~/terraform-project/main.tf
+|4,39,115,845,1740360997,"~/terraform-project/main.tf"
+-'  143  0  ~/terraform-project/main.tf
+|4,39,143,0,1740360997,"~/terraform-project/main.tf"
+-'  141  0  ~/terraform-project/main.tf
+|4,39,141,0,1740360982,"~/terraform-project/main.tf"
+-'  141  0  ~/terraform-project/main.tf
+|4,39,141,0,1740360982,"~/terraform-project/main.tf"
+-'  141  0  ~/terraform-project/main.tf
+|4,39,141,0,1740360982,"~/terraform-project/main.tf"
+-'  116  0  ~/terraform-project/main.tf
+|4,39,116,0,1740360077,"~/terraform-project/main.tf"
+-'  114  0  ~/terraform-project/main.tf
+|4,39,114,0,1740360077,"~/terraform-project/main.tf"
+-'  116  0  ~/terraform-project/main.tf
+|4,39,116,0,1740360077,"~/terraform-project/main.tf"
+-'  114  0  ~/terraform-project/main.tf
+|4,39,114,0,1740360077,"~/terraform-project/main.tf"
+-'  116  0  ~/terraform-project/main.tf
+|4,39,116,0,1740360077,"~/terraform-project/main.tf"
+-'  114  0  ~/terraform-project/main.tf
+|4,39,114,0,1740360077,"~/terraform-project/main.tf"
+-'  114  0  ~/terraform-project/main.tf
+|4,39,114,0,1740360077,"~/terraform-project/main.tf"
+-'  116  0  ~/terraform-project/main.tf
+|4,39,116,0,1740360077,"~/terraform-project/main.tf"
+-'  114  0  ~/terraform-project/main.tf
+|4,39,114,0,1740360077,"~/terraform-project/main.tf"
+-'  116  0  ~/terraform-project/main.tf
+|4,39,116,0,1740360077,"~/terraform-project/main.tf"
+-'  114  0  ~/terraform-project/main.tf
+|4,39,114,0,1740360077,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  1  0  ~/terraform-project/main.tf
+|4,39,1,0,1740360056,"~/terraform-project/main.tf"
+-'  188  0  ~/terraform-project/main.tf
+|4,39,188,0,1740360054,"~/terraform-project/main.tf"
+-'  161  0  ~/terraform-project/main.tf
+|4,39,161,0,1740360054,"~/terraform-project/main.tf"
+-'  186  0  ~/terraform-project/main.tf
+|4,39,186,0,1740360054,"~/terraform-project/main.tf"
+-'  159  0  ~/terraform-project/main.tf
+|4,39,159,0,1740360054,"~/terraform-project/main.tf"
+-'  187  0  ~/terraform-project/main.tf
+|4,39,187,0,1740360054,"~/terraform-project/main.tf"
+-'  160  0  ~/terraform-project/main.tf
+|4,39,160,0,1740360054,"~/terraform-project/main.tf"
+-'  185  0  ~/terraform-project/main.tf
+|4,39,185,0,1740360054,"~/terraform-project/main.tf"
+-'  158  0  ~/terraform-project/main.tf
+|4,39,158,0,1740360054,"~/terraform-project/main.tf"
+-'  142  0  ~/terraform-project/main.tf
+|4,39,142,0,1740360054,"~/terraform-project/main.tf"
+-'  140  0  ~/terraform-project/main.tf
+|4,39,140,0,1740360054,"~/terraform-project/main.tf"
+-'  139  0  ~/terraform-project/main.tf
+|4,39,139,0,1740360054,"~/terraform-project/main.tf"
+-'  264  0  ~/terraform-project/main.tf
+|4,39,264,0,1740360054,"~/terraform-project/main.tf"
+-'  237  0  ~/terraform-project/main.tf
+|4,39,237,0,1740360054,"~/terraform-project/main.tf"
+-'  262  0  ~/terraform-project/main.tf
+|4,39,262,0,1740360054,"~/terraform-project/main.tf"
+-'  235  0  ~/terraform-project/main.tf
+|4,39,235,0,1740360054,"~/terraform-project/main.tf"
+-'  112  0  ~/terraform-project/main.tf
+|4,39,112,0,1740360054,"~/terraform-project/main.tf"
+-'  263  0  ~/terraform-project/main.tf
+|4,39,263,0,1740360054,"~/terraform-project/main.tf"
+-'  236  0  ~/terraform-project/main.tf
+|4,39,236,0,1740360054,"~/terraform-project/main.tf"
+-'  261  0  ~/terraform-project/main.tf
+|4,39,261,0,1740360054,"~/terraform-project/main.tf"
+-'  234  0  ~/terraform-project/main.tf
+|4,39,234,0,1740360054,"~/terraform-project/main.tf"
+-'  218  0  ~/terraform-project/main.tf
+|4,39,218,0,1740360054,"~/terraform-project/main.tf"
+-'  191  0  ~/terraform-project/main.tf
+|4,39,191,0,1740360054,"~/terraform-project/main.tf"
+-'  216  0  ~/terraform-project/main.tf
+|4,39,216,0,1740360054,"~/terraform-project/main.tf"
+-'  189  0  ~/terraform-project/main.tf
+|4,39,189,0,1740360054,"~/terraform-project/main.tf"
+-'  217  0  ~/terraform-project/main.tf
+|4,39,217,0,1740360054,"~/terraform-project/main.tf"
+-'  215  0  ~/terraform-project/main.tf
+|4,39,215,0,1740360054,"~/terraform-project/main.tf"
+-'  188  0  ~/terraform-project/main.tf
+|4,39,188,0,1740360054,"~/terraform-project/main.tf"
+-'  161  0  ~/terraform-project/main.tf
+|4,39,161,0,1740360054,"~/terraform-project/main.tf"
+-'  186  0  ~/terraform-project/main.tf
+|4,39,186,0,1740360054,"~/terraform-project/main.tf"
+-'  159  0  ~/terraform-project/main.tf
+|4,39,159,0,1740360054,"~/terraform-project/main.tf"
+-'  187  0  ~/terraform-project/main.tf
+|4,39,187,0,1740360054,"~/terraform-project/main.tf"
+-'  160  0  ~/terraform-project/main.tf
+|4,39,160,0,1740360054,"~/terraform-project/main.tf"
+-'  185  0  ~/terraform-project/main.tf
+|4,39,185,0,1740360054,"~/terraform-project/main.tf"
+-'  158  0  ~/terraform-project/main.tf
+|4,39,158,0,1740360054,"~/terraform-project/main.tf"
+-'  142  0  ~/terraform-project/main.tf
+|4,39,142,0,1740360054,"~/terraform-project/main.tf"
+-'  115  0  ~/terraform-project/main.tf
+|4,39,115,0,1740360054,"~/terraform-project/main.tf"
+-'  140  0  ~/terraform-project/main.tf
+|4,39,140,0,1740360054,"~/terraform-project/main.tf"
+-'  141  0  ~/terraform-project/main.tf
+|4,39,141,0,1740360054,"~/terraform-project/main.tf"
+-'  139  0  ~/terraform-project/main.tf
+|4,39,139,0,1740360054,"~/terraform-project/main.tf"
+-'  264  0  ~/terraform-project/main.tf
+|4,39,264,0,1740360054,"~/terraform-project/main.tf"
+-'  237  0  ~/terraform-project/main.tf
+|4,39,237,0,1740360054,"~/terraform-project/main.tf"
+-'  262  0  ~/terraform-project/main.tf
+|4,39,262,0,1740360054,"~/terraform-project/main.tf"
 
 # History of marks within files (newest to oldest):
+
+> ~/terraform-project/main.tf
+	*	1740371907	0
+	"	114	0
+	^	114	0
+	.	113	1
+	+	1	16
+	+	1	536
+	+	1	1188
+	+	1	652
+	+	1	639
+	+	187	1
+	+	1	3370
+	+	1	3205
+	+	1	2526
+	+	1	2320
+	+	1	1004
+	+	1	3287
+	+	1	4325
+	+	113	1
+
+> ~/challenge-day2/backend/cloudmart-backend-deployment.yml
+	*	1740368576	0
+	"	31	46
+	^	31	47
+	.	31	46
+	+	31	22
+	+	18	83
+	+	25	27
+	+	27	27
+	+	29	46
+	+	31	181
+	+	29	181
+	+	31	46
+
+> ~/challenge-day2/frontend/cloudmart-frontend-service.yml
+	*	1740301489	0
+	"	12	21
+	^	12	22
+	.	12	21
+	+	12	21
+
+> ~/challenge-day2/frontend/cloudmart-frontend-deployment.yml
+	*	1740301467	0
+	"	18	84
+	^	18	85
+	.	18	84
+	+	18	84
+
+> ~/challenge-day2/frontend/.env
+	*	1740300994	0
+	"	1	93
+	^	1	94
+	.	1	93
+	+	1	93
+
+> ~/challenge-day2/backend/cloudmart-backend-service.yml
+	*	1740300497	0
+	"	12	6
+	^	12	22
+	.	12	21
+	+	12	21
+
+> ~/challenge-day2/frontend/kubectl.sh
+	*	1740297830	0
+	"	5	31
+	^	5	32
+	.	5	31
+	+	5	31
+
+> ~/challenge-day2/frontend/eksctl.sh
+	*	1740297798	0
+	"	3	13
+	^	3	14
+	.	3	13
+	+	3	13
+
+> ~/challenge-day2/frontend/Dockerfile
+	*	1740296581	0
+	"	16	0
+	^	16	0
+	.	15	38
+	+	15	38
+
+> ~/challenge-day2/backend/Dockerfile
+	*	1740296266	0
+	"	7	19
+	^	7	20
+	.	7	19
+	+	7	19
+
+> ~/challenge-day2/backend/.env
+	*	1740295681	0
+	"	6	45
+	^	6	46
+	.	6	45
+	+	6	45
 
 > ~/.gitignore
 	*	1740291415	0
@@ -138,14 +355,3 @@
 	^	17	0
 	.	16	42
 	+	16	42
-
-> ~/terraform-project/main.tf
-	*	1740291156	0
-	"	37	0
-	^	38	0
-	.	37	1
-	+	1	16
-	+	1	536
-	+	1	1188
-	+	1	652
-	+	37	1
